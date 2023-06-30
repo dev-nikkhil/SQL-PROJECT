@@ -1,5 +1,9 @@
 # SQL-PROJECT
 
+
+Project baseed on performing SQL Operations, on a given data set. 
+
+
 The HR database is a sample database that was originally created by Microsoft and used as the basis for their tutorials in a variety of database products for decades.
 
 The HR sample database has seven tables:
